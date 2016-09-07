@@ -1,2 +1,10 @@
 # 配置git提交时不需要提交到代码仓库的文件和文件夹下面的文件
-./node_modules
+/.sass-cache
+/.project
+/node_modules
+*.log
+.DS_Store
+*.idea
+.vscode
+/.scsstmp
+*.tags*

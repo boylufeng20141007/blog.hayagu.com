@@ -1,0 +1,27 @@
+{
+  "name": "blog.hayagu.com",
+  "version": "1.0.0",
+  "description": "博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boylufeng20141007/blog.hayagu.com.git"
+  },
+  "keywords": [
+    "blog",
+    "hayagu",
+    "blog.hayagu.com"
+  ],
+  "author": "boylufeng@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boylufeng20141007/blog.hayagu.com/issues"
+  },
+  "homepage": "https://github.com/boylufeng20141007/blog.hayagu.com#readme",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
+}
